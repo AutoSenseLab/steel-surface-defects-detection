@@ -1,6 +1,6 @@
 # AI Defect Detection
 
-EfficientNetB0 + GradCAM for steel surface defect classification (NEU dataset, 6 classes).
+MobileNetV2 + GradCAM for steel surface defect classification (NEU dataset, 6 classes).
 
 ---
 
