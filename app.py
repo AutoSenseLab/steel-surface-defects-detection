@@ -81,7 +81,7 @@ if uploaded:
 
     with col1:
         st.subheader("Original")
-        st.image(image, use_column_width=True)
+        st.image(image, use_container_width=True)
         st.caption(f"{image.size[0]}×{image.size[1]} px")
 
     with col2:
