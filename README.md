@@ -69,5 +69,12 @@ streamlit run app.py
 
 ---
 
+## Demo
+
+![Demo Screenshot](screenshots/Screenshot\ 2026-04-12\ 200028.png)
+
+> ตัวอย่าง: ตรวจจับ Patches defect ได้ Confidence 100% พร้อม GradCAM Heatmap
+
+
 ## Author
 **Heart Khunpanuk** — Metrology & Integration Engineer
