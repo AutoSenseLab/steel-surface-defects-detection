@@ -71,9 +71,13 @@ streamlit run app.py
 
 ## Demo
 
+![Demo](screenshots/demo.gif)
+
 ![Demo Screenshot](screenshots/demo_screenshot.png)
 
 > ตัวอย่าง: ตรวจจับ Patches defect ได้ Confidence 100% พร้อม GradCAM Heatmap
+
+
 
 
 ## Author
