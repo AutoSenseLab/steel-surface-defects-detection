@@ -109,10 +109,10 @@ if uploaded:
                     overlaid, heatmap_only = overlay_heatmap(
                         np.array(image), heatmap, alpha=heatmap_alpha
                     )
-                    st.image(overlaid, use_column_width=True)
+                    st.image(overlaid, use_container_width=True)
                     st.caption("Red = where the model focused")
                     with st.expander("Heatmap only"):
-                        st.image(heatmap_only, use_column_width=True)
+                        st.image(heatmap_only, use_container_width=True)
                 except Exception as e:
                     st.error(f"Heatmap failed: {e}")
 
